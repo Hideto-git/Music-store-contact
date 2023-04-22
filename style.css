@@ -341,11 +341,11 @@ footer .container {
       margin-top: 40px;
     }
   }
+  /*ここを調整した*/
   .Form-Item {
-  
     padding-top: 24px;
     padding-bottom: 24px;
-    width: 100%;
+    width: 93%;
     display: flex;
     align-items: center;
   }
